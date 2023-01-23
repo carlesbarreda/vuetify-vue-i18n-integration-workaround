@@ -7,13 +7,14 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+node_modules
 dist
 dist-ssr
 *.local
 
 .yarn
-!.yarn/plugins
-!.yarn/releases
+!.yarn/plugins/@yarnpkg/plugin-interactive-tools.cjs
+!.yarn/releases/yarn-3.3.1.cjs
 
 # Editor directories and files
 .vscode/*
