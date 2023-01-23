@@ -1,4 +1,4 @@
 {
   "installDependencies": false,
-  "startCommand": "yarn install && cp -r workaround/vuetify-3.1.2/* node_modules/vuetify/ && yarn dev"
+  "startCommand": "npm install && cp -r workaround/vuetify-3.1.2/* node_modules/vuetify/ && npm run dev"
 }
