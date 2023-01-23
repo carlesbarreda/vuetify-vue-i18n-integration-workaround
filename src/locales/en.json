@@ -1,0 +1,14 @@
+{
+  "locales": {
+    "ca": "Catalan",
+    "es": "Spanish",
+    "en": "English"
+  },
+  "title": "Vuetify integration test with vue-i18n",
+  "files": "Files",
+  "total": "Total",
+  "size": "Size",
+  "locale": "Locale",
+  "expected-string": "Expected string",
+  "dropfiles": "Drop the files or click here to upload them"
+}

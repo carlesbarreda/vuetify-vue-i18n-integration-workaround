@@ -1,0 +1,14 @@
+{
+  "locales": {
+    "ca": "Catalán",
+    "es": "Castellano",
+    "en": "Inglés"
+  },
+  "title": "Prueba de integración de Vuetify con vue-i18n",
+  "files": "Archivos",
+  "total": "Total",
+  "size": "Tamaño",
+  "locale": "Idioma",
+  "expected-string": "Cadena esperada",
+  "dropfiles": "Suelte los archivos o haga clic aquí para cargarlos"
+}

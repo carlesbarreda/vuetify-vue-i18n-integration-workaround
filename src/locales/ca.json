@@ -1,0 +1,14 @@
+{
+  "locales": {
+    "ca": "Català",
+    "es": "Castellà",
+    "en": "Anglés"
+  },
+  "title": "Prova d'integració de Vuetify amb vue-i18n",
+  "files": "Fitxers",
+  "total": "Total",
+  "size": "Tamany",
+  "locale": "Idioma",
+  "expected-string": "Cadena esperada",
+  "dropfiles": "Deixeu anar els fitxers o feu clic aquí per carregar-los"
+}
